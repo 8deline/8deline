@@ -1,6 +1,6 @@
 ### Hi there 👋 👩🏻‍💻
 
-<img align="center" src="adecartoon.jpeg" width="400px" height="300px">
+<img align="center" src="adecartoon.jpeg" width="400px" height="300px" />
 
 <h2> 🌱 I’m currently learning </h2>
  
