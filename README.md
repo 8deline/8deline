@@ -1,11 +1,11 @@
 ### Hi there 👋 👩🏻‍💻
 
-<img src="adecartoon.jpeg" width="400px" height="300px">
+<img align="center" src="adecartoon.jpeg" width="400px" height="300px">
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... -->
 
-<h2 display="inline"> 🌱 I’m currently learning </h2>
+<h2> 🌱 I’m currently learning </h2>
  
 <li> 💻 Stanford CS101 - Introduction to Computing Principles</li>
 <li>🚀 Graphql & Apollo</li>
