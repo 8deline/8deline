@@ -1,6 +1,6 @@
 ### Hi there 👋 👩🏻‍💻
 
-![Adeline profile banner](/photo_2021-06-17 20.06.49.jpeg)
+![Adeline profile banner](/adecartoon.jpeg)
 
 <!-- <img src="photo_2021-06-17 20.06.49.jpeg"> -->
 
