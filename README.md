@@ -1,6 +1,6 @@
 ### Hi there 👋 👩🏻‍💻
 
-<img src="adecartoon.jpeg" width="100%" height="70px">
+<img src="adecartoon.jpeg" width="50px" height="50px">
 
 <!--
 **8deline/8deline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
