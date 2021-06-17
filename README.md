@@ -1,8 +1,8 @@
 ### Hi there 👋 👩🏻‍💻
 
-![Adeline profile banner](/adecartoon.jpeg)
+![Adeline profile banner](/adecartoon.jpeg){:height="50px" width="50%"}
 
-<!-- <img src="photo_2021-06-17 20.06.49.jpeg"> -->
+<img src="adecartoon.jpeg" width="100%" height="100">
 
 <!--
 **8deline/8deline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
