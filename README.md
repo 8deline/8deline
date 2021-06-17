@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 👩🏻‍💻
+
+![Adeline profile banner](./photo_2021-06-17 20.06.49.jpeg)
+
+<!-- <img src="photo_2021-06-17 20.06.49.jpeg"> -->
 
 <!--
 **8deline/8deline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
