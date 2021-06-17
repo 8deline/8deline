@@ -1,6 +1,6 @@
 ### Hi there 👋 👩🏻‍💻
 
-<img src="adecartoon.jpeg" width="300px" height="300px">
+<img src="adecartoon.jpeg" width="400px" height="300px">
 
 <!-- Here are some ideas to get you started:
 
