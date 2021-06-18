@@ -14,7 +14,7 @@
 
 <br/>
  
- ## ☕:[Something is brewing... ](https://github.com/jerots/midas-backend)
+ ## :☕: Something is brewing... 
 
  <br/>
 
