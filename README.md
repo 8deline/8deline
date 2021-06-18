@@ -13,7 +13,7 @@
 <li>💩 LITO Academy</li>
 
 <br/>
- ## :coffee: Something is brewing...
+ :coffee: Something is brewing...
 
  <br/>
 
