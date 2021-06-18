@@ -12,7 +12,7 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8deline&layout=compact&langs_count=10&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8deline&layout=compact&langs_count=10&theme=solarized-light)
 <!-- Here are some ideas to get you started: 🔭 I’m currently working on ... -->
 
 <!-- - 👯 I’m looking to collaborate on ...
