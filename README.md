@@ -1,4 +1,6 @@
-### Hi there 👋 👩🏻‍💻
+### Hi there 👩🏻‍💻
+
+<img src="https://media.giphy.com/media/i6O3xEh72rp84/giphy.gif" width="25px" height="25px">
 
 <img align="right" src="adecartoon.jpeg" width="400px" height="300px" />
 
