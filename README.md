@@ -1,7 +1,6 @@
 ### Hi there 👋 👩🏻‍💻 
 
-<div class="tenor-gif-embed" data-postid="7735986" data-share-method="host" data-width="20%" data-aspect-ratio="1.2413793103448276"><a href="https://tenor.com/view/cat-emoji-wave-bye-gif-7735986">Cat Emoji GIF</a> from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <img align="right" src="adecartoon.jpeg" width="400px" height="300px" />
 
