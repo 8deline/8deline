@@ -14,8 +14,8 @@
 
 <br/>
  
- <h2> ☕Something is brewing... </h2>
- [Midas](https://github.com/jerots/midas-backend)
+ [☕Something is brewing... ](https://github.com/jerots/midas-backend)
+
  <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8deline&layout=compact&langs_count=10&theme=solarized-light)
