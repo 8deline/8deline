@@ -4,7 +4,7 @@
 
 <img align="right" src="adecartoon.jpeg" width="400px" height="300px" />
 
-<h2> 🌱 I’m currently learning </h2>
+<h3> 🌱 I’m currently learning </h3>
  
 <li> 💻 Stanford CS101 - Introduction to Computing Principles</li>
 <li>🚀 Graphql & Apollo</li>
