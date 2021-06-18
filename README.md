@@ -9,6 +9,8 @@
 <li>👩🏻‍💻 QA engineer essentials</li>
 <li>🙏 Yale University - The Science of Well-Being</li>
 <li>💩 LITO Academy</li>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8deline&layout=compact)
 <!-- Here are some ideas to get you started: 🔭 I’m currently working on ... -->
 
 <!-- - 👯 I’m looking to collaborate on ...
