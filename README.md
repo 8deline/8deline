@@ -1,6 +1,6 @@
 
 
-<img src="https://media.giphy.com/media/i6O3xEh72rp84/giphy.gif" width="35px" height="35px"> <strong>Hi there<strong> 👩🏻‍💻
+<img src="https://media.giphy.com/media/i6O3xEh72rp84/giphy.gif" width="40px" height="40px"> 
 
 <img align="right" src="adecartoon.jpeg" width="400px" height="300px" />
 
