@@ -14,13 +14,19 @@
 
 <br/>
 
+<h2> ⚡ Stacks </h2>
+<img src="logos/github-icon.svg" width="30" /><img src="logos/javascript.svg" width="30" /> <img src="logos/bootstrap.svg" width="30" /> <img src="logos/mongodb.svg" width="40" /> <img src="logos/express.svg" width="40" /> <img src="logos/react.svg" width="30" /> <img src="logos/nodejs.svg" width="30" /> <img src="logos/python.svg" width="30" /> <img src="logos/django-icon.svg" width="30" /> <img src="logos/mysql.svg" width="30" /> <img src="logos/apollostack.svg" width="30" /> <img src="logos/graphql.svg" width="30" /> <img src="logos/heroku-icon.svg" width="30" /> <img src="logos/jest.svg" width="30" /> <img src="logos/typescript-icon.svg" width="30" /> <img src="logos/visual-studio-code.svg" width="30" /> <img src="logos/Pandas_logo.svg.png" width="50" />
+
+<br/>
+<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8deline&layout=compact&langs_count=10&theme=solarized-light)
 
 <!-- Here are some ideas to get you started: 🔭 I’m currently working on ... -->
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ...⚡k⚡⚡k⚡⚡⚡kk
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
