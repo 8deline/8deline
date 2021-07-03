@@ -1,10 +1,10 @@
-### Hi there 👩🏻‍💻
 
-<img src="https://media.giphy.com/media/i6O3xEh72rp84/giphy.gif" width="25px" height="25px">
+
+<img src="https://media.giphy.com/media/i6O3xEh72rp84/giphy.gif" width="40px" height="40px"> 
 
 <img align="right" src="adecartoon.jpeg" width="400px" height="300px" />
 
-<h2> 🌱 I’m currently learning </h2>
+<h3> 🌱 I’m currently learning </h3>
  
 <li> 💻 Stanford CS101 - Introduction to Computing Principles</li>
 <li>🚀 Graphql & Apollo</li>
@@ -13,6 +13,9 @@
 <li>💩 LITO Academy</li>
 
 <br/>
+ :coffee: Something is brewing...
+<br/>
+ <br/>
 
 <h2> ⚡ Stacks </h2>
 <img src="logos/github-icon.svg" width="30" /><img src="logos/javascript.svg" width="30" /> <img src="logos/bootstrap.svg" width="30" /> <img src="logos/mongodb.svg" width="40" /> <img src="logos/express.svg" width="40" /> <img src="logos/react.svg" width="30" /> <img src="logos/nodejs.svg" width="30" /> <img src="logos/python.svg" width="30" /> <img src="logos/django-icon.svg" width="30" /> <img src="logos/mysql.svg" width="30" /> <img src="logos/apollostack.svg" width="30" /> <img src="logos/graphql.svg" width="30" /> <img src="logos/heroku-icon.svg" width="30" /> <img src="logos/jest.svg" width="30" /> <img src="logos/typescript-icon.svg" width="30" /> <img src="logos/visual-studio-code.svg" width="30" /> <img src="logos/Pandas_logo.svg.png" width="50" />
