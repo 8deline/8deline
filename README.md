@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/i6O3xEh72rp84/giphy.gif" width="40px" height="40px">
+<img src="https://media.giphy.com/media/i6O3xEh72rp84/giphy.gif" width="50px" height="50px">
 
 <img align="right" src="adecartoon.jpeg" width="400px" height="300px" />
 
